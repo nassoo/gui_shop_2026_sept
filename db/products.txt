@@ -10,3 +10,4 @@
 {"id": 10, "name": "some test", "img_path": "1.png", "count": 1}
 {"id": 11, "name": "asd", "img_path": "1.png", "count": 25}
 {"id": 12, "name": "3", "img_path": "1.png", "count": 30}
+{"id": 13, "name": "New Product", "img_path": "1.png", "count": 4}
